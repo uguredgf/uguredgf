@@ -7,9 +7,9 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 ---
 
 ### 🚀 Nelerle İlgileniyorum?
-- **Web3 & Blockchain:** Sui Move ve Solidity ile akıllı kontrat mimarileri geliştiriyorum.
+- **Web3 & Blockchain:** Sui Move, Solidity ve Blokzincir temelleri (Smart Contracts, DeFi, Security).
 - **Mobile Development:** Flutter ve Kotlin/Jetpack Compose ile modern mobil arayüzler tasarlıyorum.
-- **AI & Emerging Tech:** Yapay zeka farkındalık projeleri ve yeni nesil teknoloji entegrasyonları üzerine odaklanıyorum.
+- **AI & Emerging Tech:** Yapay zeka farkındalık projeleri ve yeni nesil teknoloji entegrasyonları.
 
 ---
 
@@ -17,8 +17,8 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 
 #### 🍇 TÜBİTAK 2209-A Projesi
 **Başlık:** Coğrafi İşaretli Ürünler İçin Blokzincir Tabanlı Tedarik Zinciri Yönetimi ve Orijinallik Takip Sistemi: Elazığ Öküzgözü Üzümü Örneği
-- **Danışman:** Doç. [cite_start]Dr. Feyza Altunbey Özbay [cite: 8]
-- [cite_start]**Özet:** Ürünün tarladan sofraya olan yolculuğunu blokzincir üzerinde şeffaf ve güvenilir bir modelle kayıt altına alıyoruz. [cite: 12]
+- **Danışman:** Doç. Dr. Feyza Altunbey Özbay
+- **Özet:** Ürünün tarladan sofraya olan yolculuğunu blokzincir üzerinde şeffaf ve güvenilir bir modelle kayıt altına alıyoruz.
 
 #### 🏗️ Sui Move Workshop Project
 - Sui Türkiye eğitimlerini tamamlayarak temel Sui Move ekosistemi ve akıllı kontrat geliştirme prensiplerinde yetkinlik kazandım.
@@ -29,12 +29,13 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 ### 📜 Sertifikalarım
 
 <p align="center">
-  <img src="./sui_cert.jpg" width="24%" alt="Sui Move Workshop Sertifikası" />
-  <img src="./kotlin_cert.jpg" width="24%" alt="T3 Vakfı Kotlin Sertifikası" />
-  <img src="./ai_cert.jpg" width="24%" alt="Microsoft Yapay Zeka Sertifikası" />
-  <img src="./flutter_cert.png" width="24%" alt="Huawei Flutter Bootcamp Sertifikası" />
+  <img src="./sui_cert.jpg" width="24%" alt="Sui Move Workshop" />
+  <img src="./flutter_cert.png" width="24%" alt="Huawei Flutter Bootcamp" />
+  <img src="./kotlin_cert.jpg" width="24%" alt="T3 Vakfı Kotlin" />
+  <img src="./ai_cert.jpg" width="24%" alt="Microsoft Yapay Zeka" />
 </p>
 
+* **🛡️ [Cyfrin Updraft: Blockchain Basics](https://profiles.cyfrin.io/u/ugurtlf/achievements/blockchain-basics)** (Dijital Doğrulanmış Başarı)
 * **Sui Türkiye**: Certificate of Authenticity - Sui Move Workshop
 * **Huawei Student Developers**: Flutter Bootcamp Katılım Sertifikası
 * **T3 Vakfı**: Jetpack Compose ve Kotlin ile Mobil Uygulama Geliştirme
@@ -60,4 +61,4 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 ---
 
 ### 📫 Bana Ulaşın
-[LinkedIn](https://tr.linkedin.com/in/u%C4%9Fur-erdo%C4%9Fan-742590304) | [Twitter (X)](https://twitter.com/ugurdotsui)
+[LinkedIn](https://tr.linkedin.com/in/u%C4%9Fur-erdo%C4%9Fan-742590304) | [Twitter (X)](https://twitter.com/ugurdotsui) | [Cyfrin Profile](https://profiles.cyfrin.io/u/ugurtlf)
