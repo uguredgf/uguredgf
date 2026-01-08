@@ -8,7 +8,7 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 
 ### 🚀 Nelerle İlgileniyorum?
 - **Web3 & Blockchain:** Sui Move ve Solidity ile akıllı kontrat mimarileri geliştiriyorum.
-- **Mobile Development:** Flutter/Dart ve Kotlin/Jetpack Compose ile modern mobil arayüzler tasarlıyorum.
+- **Mobile Development:** Flutter ve Kotlin/Jetpack Compose ile modern mobil arayüzler tasarlıyorum.
 - **AI & Emerging Tech:** Yapay zeka farkındalık projeleri ve yeni nesil teknoloji entegrasyonları üzerine odaklanıyorum.
 
 ---
@@ -16,25 +16,27 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 ### 🔬 Akademik Projeler & Web3 Başarıları
 
 #### 🍇 TÜBİTAK 2209-A Projesi
-**Başlık:** Coğrafi İşaretli Ürünler İçin Blokzincir Tabanlı Tedarik Zinciri Yönetimi ve Orijinallik Takip Sistemi
-- **Danışman:** Doç. Dr. Feyza Altunbey Özbay
-- **Özet:** Elazığ Öküzgözü Üzümü örneğinde, ürünün tarladan sofraya olan yolculuğunu şeffaf ve güvenilir bir modelle kayıt altına alıyoruz. 
+**Başlık:** Coğrafi İşaretli Ürünler İçin Blokzincir Tabanlı Tedarik Zinciri Yönetimi ve Orijinallik Takip Sistemi: Elazığ Öküzgözü Üzümü Örneği
+- **Danışman:** Doç. [cite_start]Dr. Feyza Altunbey Özbay [cite: 8]
+- [cite_start]**Özet:** Ürünün tarladan sofraya olan yolculuğunu blokzincir üzerinde şeffaf ve güvenilir bir modelle kayıt altına alıyoruz. [cite: 12]
 
 #### 🏗️ Sui Move Workshop Project
 - Sui Türkiye eğitimlerini tamamlayarak temel Sui Move ekosistemi ve akıllı kontrat geliştirme prensiplerinde yetkinlik kazandım.
-- **Proje Detayı:** Akıllı kontrat ve React frontend entegrasyonuna sahip, GitHub Actions ile otomatik deploy edilen merkeziyetsiz bir uygulama geliştirildi.
+- **Proje Detayı:** Akıllı kontrat ve React frontend entegrasyonuna sahip merkeziyetsiz bir uygulama geliştirildi.
 
 ---
 
 ### 📜 Sertifikalarım
 
 <p align="center">
-  <img src="./sui_cert.jpg" width="31%" alt="Sui Move Workshop Sertifikası" />
-  <img src="./kotlin_cert.jpg" width="31%" alt="T3 Vakfı Kotlin Sertifikası" />
-  <img src="./ai_cert.jpg" width="31%" alt="Microsoft Yapay Zeka Sertifikası" />
+  <img src="./sui_cert.jpg" width="24%" alt="Sui Move Workshop Sertifikası" />
+  <img src="./kotlin_cert.jpg" width="24%" alt="T3 Vakfı Kotlin Sertifikası" />
+  <img src="./ai_cert.jpg" width="24%" alt="Microsoft Yapay Zeka Sertifikası" />
+  <img src="./flutter_cert.png" width="24%" alt="Huawei Flutter Bootcamp Sertifikası" />
 </p>
 
 * **Sui Türkiye**: Certificate of Authenticity - Sui Move Workshop
+* **Huawei Student Developers**: Flutter Bootcamp Katılım Sertifikası
 * **T3 Vakfı**: Jetpack Compose ve Kotlin ile Mobil Uygulama Geliştirme
 * **Kodluyoruz & Microsoft**: Yapay Zeka ile Dönüştürelim Farkındalık Programı
 
@@ -43,8 +45,8 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 ### 🛠️ Yetkinliklerim
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Sui Move](https://img.shields.io/badge/Sui%20Move-Blue?style=for-the-badge&logo=Sui&logoColor=white)
 
 ---
@@ -59,5 +61,3 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 
 ### 📫 Bana Ulaşın
 [LinkedIn](https://tr.linkedin.com/in/u%C4%9Fur-erdo%C4%9Fan-742590304) | [Twitter (X)](https://twitter.com/ugurdotsui)
-
-*"Yazılım, sadece kod yazmak değil; bir problemi en zarif şekilde çözmektir."*
