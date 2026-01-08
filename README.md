@@ -18,7 +18,7 @@
 #### 🍇 TÜBİTAK 2209-A Projesi
 [cite_start]**Başlık:** Coğrafi İşaretli Ürünler İçin Blokzincir Tabanlı Tedarik Zinciri Yönetimi ve Orijinallik Takip Sistemi [cite: 8]
 - **Danışman:** Doç. [cite_start]Dr. Feyza Altunbey Özbay [cite: 8]
- [cite_start]**Özet:** Elazığ Öküzgözü Üzümü örneğinde, ürünün tarladan sofraya olan yolculuğunu şeffaf ve güvenilir bir modelle kayıt altına alıyoruz. 
+- **Özet:** Elazığ Öküzgözü Üzümü örneğinde, ürünün tarladan sofraya olan yolculuğunu şeffaf ve güvenilir bir modelle kayıt altına alıyoruz. 
 
 #### 🏗️ Sui Move Workshop Project
 - Sui Türkiye eğitimlerini tamamlayarak temel Sui Move ekosistemi ve akıllı kontrat geliştirme prensiplerinde yetkinlik kazandım.
