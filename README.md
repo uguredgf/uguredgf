@@ -27,14 +27,16 @@
 ---
 
 ### 📜 Sertifikalarım
-- **Sui Türkiye:** Certificate of Authenticity - Sui Move Workshop
-- **T3 Vakfı:** Jetpack Compose ve Kotlin ile Mobil Uygulama Geliştirme
-- **Kodluyoruz & Microsoft:** Yapay Zeka ile Dönüştürelim Farkındalık Programı
-- <p align="center">
-  <img src="./sui_cert.jpg" width="30%" />
-  <img src="./kotlin_cert.jpg" width="30%" />
-  <img src="./ai_cert.jpg" width="30%" />
+
+<p align="center">
+  <img src="./image_68f2e4.jpg" width="31%" alt="Sui Move Workshop Sertifikası" />
+  <img src="./1746448540534.jpg" width="31%" alt="T3 Vakfı Kotlin Sertifikası" />
+  <img src="./1741354908229.jpg" width="31%" alt="Microsoft Yapay Zeka Sertifikası" />
 </p>
+
+* **Sui Türkiye**: Certificate of Authenticity - Sui Move Workshop
+* **T3 Vakfı**: Jetpack Compose ve Kotlin ile Mobil Uygulama Geliştirme
+* **Kodluyoruz & Microsoft**: Yapay Zeka ile Dönüştürelim Farkındalık Programı
 
 ---
 
