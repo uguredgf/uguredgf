@@ -31,10 +31,9 @@ Yazılım dünyasında kalıcı ve yenilikçi çözümler üretmeye odaklanmış
 
 ### 📊 GitHub İstatistiklerim
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=uguredgf&show_icons=true&theme=tokyonight" alt="uguredgf Stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguredgf&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=uguredgf&show_icons=true&theme=radical" alt="uguredgf GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguredgf&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" height="150"/>
 </p>
-
 ---
 
 ### 📫 Bana Ulaşın
