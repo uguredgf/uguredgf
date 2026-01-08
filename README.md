@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Yazılım Mühendisi Adayı | Fırat Üniversitesi
 
-[cite_start]Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümlerle birleştiren bir Yazılım Mühendisliği öğrencisiyim. [cite: 8] [cite_start]Blokzincir tabanlı tedarik zinciri yönetimi ve kullanıcı odaklı mobil uygulamalar üzerine Ar-Ge çalışmaları yürütüyorum. 
+Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümlerle birleştiren bir Yazılım Mühendisliği öğrencisiyim. Blokzincir tabanlı tedarik zinciri yönetimi ve kullanıcı odaklı mobil uygulamalar üzerine Ar-Ge çalışmaları yürütüyorum. 
 
 ---
 
@@ -16,8 +16,8 @@
 ### 🔬 Akademik Projeler & Web3 Başarıları
 
 #### 🍇 TÜBİTAK 2209-A Projesi
-[cite_start]**Başlık:** Coğrafi İşaretli Ürünler İçin Blokzincir Tabanlı Tedarik Zinciri Yönetimi ve Orijinallik Takip Sistemi [cite: 8]
-- **Danışman:** Doç. [cite_start]Dr. Feyza Altunbey Özbay [cite: 8]
+**Başlık:** Coğrafi İşaretli Ürünler İçin Blokzincir Tabanlı Tedarik Zinciri Yönetimi ve Orijinallik Takip Sistemi
+- **Danışman:** Doç. Dr. Feyza Altunbey Özbay
 - **Özet:** Elazığ Öküzgözü Üzümü örneğinde, ürünün tarladan sofraya olan yolculuğunu şeffaf ve güvenilir bir modelle kayıt altına alıyoruz. 
 
 #### 🏗️ Sui Move Workshop Project
