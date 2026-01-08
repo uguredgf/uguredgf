@@ -1,39 +1,58 @@
-# Merhaba, ben Uğur! 👋
+# Merhaba, ben Uğur Erdoğan! 👋
 
 ### 👨‍💻 Yazılım Mühendisi Adayı | Fırat Üniversitesi
 
-Yazılım dünyasında kalıcı ve yenilikçi çözümler üretmeye odaklanmış bir Yazılım Mühendisliği öğrencisiyim. Geleneksel yazılım disiplinini, Web3 ve Blokzinciri teknolojilerinin şeffaflığıyla birleştirmeyi seviyorum.
+[cite_start]Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümlerle birleştiren bir Yazılım Mühendisliği öğrencisiyim. [cite: 8] [cite_start]Blokzincir tabanlı tedarik zinciri yönetimi ve kullanıcı odaklı mobil uygulamalar üzerine Ar-Ge çalışmaları yürütüyorum. 
 
 ---
 
 ### 🚀 Nelerle İlgileniyorum?
-- **Web3 & Blockchain:** Akıllı kontrat mimarileri ve merkeziyetsiz uygulama (dApp) geliştirme süreçleri.
-- **Sui Move:** Sui ağı üzerinde nesne tabanlı akıllı kontrat geliştirme (21 günlük maraton tamamlandı! 🏆).
-- **Mobile Development:** Flutter ve Dart ile modern, kullanıcı odaklı mobil çözümler.
+- **Web3 & Blockchain:** Sui Move ve Solidity ile akıllı kontrat mimarileri geliştiriyorum.
+- **Mobile Development:** Flutter/Dart ve Kotlin/Jetpack Compose ile modern mobil arayüzler tasarlıyorum.
+- **AI & Emerging Tech:** Yapay zeka farkındalık projeleri ve yeni nesil teknoloji entegrasyonları üzerine odaklanıyorum.
 
 ---
 
-### 🔬 Akademik Projeler & Araştırmalar
-Şu anda akademik danışmanım **Doç. Dr. Feyza Altunbey Özbay** ve proje ortağım **Abdullah Batur Demir** ile birlikte bir TÜBİTAK projesi yürütmekteyim:
+### 🔬 Akademik Projeler & Web3 Başarıları
 
-* **TÜBİTAK 2209-A:** Coğrafi işaretli tarım ürünlerinin tedarik zinciri süreçlerini blokzincir teknolojisiyle dijitalleştirmek ve şeffaf bir izlenebilirlik altyapısı sunmak üzerine bir Ar-Ge çalışması yürütüyorum.
+#### 🍇 TÜBİTAK 2209-A Projesi
+[cite_start]**Başlık:** Coğrafi İşaretli Ürünler İçin Blokzincir Tabanlı Tedarik Zinciri Yönetimi ve Orijinallik Takip Sistemi [cite: 8]
+- **Danışman:** Doç. [cite_start]Dr. Feyza Altunbey Özbay [cite: 8]
+- [cite_start]**Özet:** Elazığ Öküzgözü Üzümü örneğinde, ürünün tarladan sofraya olan yolculuğunu şeffaf ve güvenilir bir modelle kayıt altına alıyoruz. 
+
+#### 🏗️ Sui Move Workshop Project
+- Sui Türkiye eğitimlerini tamamlayarak temel Sui Move ekosistemi ve akıllı kontrat geliştirme prensiplerinde yetkinlik kazandım.
+- **Proje Detayı:** Akıllı kontrat ve React frontend entegrasyonuna sahip, GitHub Actions ile otomatik deploy edilen merkeziyetsiz bir uygulama geliştirildi.
+
+---
+
+### 📜 Sertifikalarım
+- **Sui Türkiye:** Certificate of Authenticity - Sui Move Workshop
+- **T3 Vakfı:** Jetpack Compose ve Kotlin ile Mobil Uygulama Geliştirme
+- **Kodluyoruz & Microsoft:** Yapay Zeka ile Dönüştürelim Farkındalık Programı
+- <p align="center">
+  <img src="./sui_cert.jpg" width="30%" />
+  <img src="./kotlin_cert.jpg" width="30%" />
+  <img src="./ai_cert.jpg" width="30%" />
+</p>
 
 ---
 
 ### 🛠️ Yetkinliklerim
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Sui Move](https://img.shields.io/badge/Sui%20Move-Blue?style=for-the-badge&logo=Sui&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub İstatistiklerim
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=uguredgf&show_icons=true&theme=radical" alt="uguredgf GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguredgf&layout=compact&theme=radical" alt="En Çok Kullanılan Diller" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=uguredgf&show_icons=true&theme=tokyonight" alt="uguredgf Stats" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uguredgf&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
 </p>
+
 ---
 
 ### 📫 Bana Ulaşın
