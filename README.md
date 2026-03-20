@@ -33,6 +33,7 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
   <img src="./flutter_cert.png" width="24%" alt="Huawei Flutter Bootcamp" />
   <img src="./kotlin_cert.jpg" width="24%" alt="T3 Vakfı Kotlin" />
   <img src="./ai_cert.jpg" width="24%" alt="Microsoft Yapay Zeka" />
+  <img src="./kod2026.jpeg" width="24%" alt="KOD:2026(Yapay Zeka Zincirleri Kır)" />
 </p>
 
 * **🛡️ [Cyfrin Updraft: Blockchain Basics](https://profiles.cyfrin.io/u/ugurtlf/achievements/blockchain-basics)** (Dijital Doğrulanmış Başarı)
