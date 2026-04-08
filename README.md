@@ -43,6 +43,7 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 * **T3 Vakfı**: Jetpack Compose ve Kotlin ile Mobil Uygulama Geliştirme
 * **Kodluyoruz & Microsoft**: Yapay Zeka ile Dönüştürelim Farkındalık Programı
 * **Rise İn**: KOD:2026 – Kodla, Yapay Zeka Zincirlerini Kır
+* **Campus Arc**: Onchain Workshop - Merkeziyetsiz Finans Eğitimi
 
 ---
 
