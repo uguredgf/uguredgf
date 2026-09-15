@@ -15,10 +15,6 @@ Geleneksel yazılım disiplinini Web3 şeffaflığı ve modern mobil çözümler
 
 ### 🔬 Akademik Projeler & Web3 Başarıları
 
-#### 🍇 TÜBİTAK 2209-A Projesi
-**Başlık:** Coğrafi İşaretli Ürünler İçin Blokzincir Tabanlı Tedarik Zinciri Yönetimi ve Orijinallik Takip Sistemi: Elazığ Öküzgözü Üzümü Örneği
-- **Danışman:** Doç. Dr. Feyza Altunbey Özbay
-- **Özet:** Ürünün tarladan sofraya olan yolculuğunu blokzincir üzerinde şeffaf ve güvenilir bir modelle kayıt altına alıyoruz.
 
 #### 🏗️ Sui Move Workshop Project
 - Sui Türkiye eğitimlerini tamamlayarak temel Sui Move ekosistemi ve akıllı kontrat geliştirme prensiplerinde yetkinlik kazandım.
