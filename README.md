@@ -6,7 +6,7 @@ Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Yapay z
 
 2026 yazında **Microsoft AI Innovators Internship Program**'ı tamamladım. Program kapsamında, belgeleri cihazdan çıkarmadan işleyen **[Local RAG with Microsoft Foundry Local](https://github.com/uguredgf/local-rag-foundry)** projesini geliştirdim. Şu anda **Thyris.ai'da Product Intern** olarak AI odaklı ürün çalışmalarına katkıda bulunuyorum.
 
-<p><img src="./assets/subtle-divider.gif" width="100%" height="10" alt="" /></p>
+---
 
 ### 🚀 Nelerle İlgileniyorum?
 - **AI & RAG:** LLM entegrasyonu, yerel modeller, hibrit arama, AI agent'ları ve model fine-tuning çalışmaları.
