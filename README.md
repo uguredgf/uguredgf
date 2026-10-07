@@ -1,3 +1,5 @@
+![Uğur Erdoğan — AI, Web3 ve mobil; animasyonlu robot geliştirme laboratuvarı](./assets/profile-lab.gif)
+
 # Merhaba, ben Uğur Erdoğan! 👋
 
 ### 👨‍💻 Yazılım Mühendisi Adayı | AI, Web3 & Mobil Geliştirme
@@ -5,10 +7,6 @@
 Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Yapay zeka, Web3 ve mobil teknolojilerle uçtan uca uygulamalar geliştiriyorum. Özellikle yerel çalışan dil modelleri, belge tabanlı soru-cevap sistemleri (RAG), akıllı kontratlar ve backend mimarileri üzerine çalışıyorum.
 
 2026 yazında **Microsoft AI Innovators Internship Program**'ı tamamladım. Program kapsamında, belgeleri cihazdan çıkarmadan işleyen **[Local RAG with Microsoft Foundry Local](https://github.com/uguredgf/local-rag-foundry)** projesini geliştirdim. Şu anda **Thyris.ai'da Product Intern** olarak AI odaklı ürün çalışmalarına katkıda bulunuyorum.
-
-<p align="center">
-  <a href="#deneyim">Deneyim</a> · <a href="#projeler">Projeler</a> · <a href="#sertifikalar">Sertifikalar</a> · <a href="#yetkinlikler">Yetkinlikler</a> · <a href="#iletisim">İletişim</a>
-</p>
 
 ---
 
@@ -19,8 +17,6 @@ Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Yapay z
 - **Mobil Geliştirme:** Flutter ve Kotlin/Jetpack Compose ile kullanıcı odaklı mobil arayüzler.
 
 ---
-
-<a name="deneyim"></a>
 
 ### 💼 Deneyim & Topluluk
 
@@ -35,14 +31,9 @@ Fırat Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim. Yapay z
 
 ---
 
-<a name="projeler"></a>
-
 ### 🚀 Öne Çıkan Projeler
 
-Proje başlıklarına tıklayarak detayları açabilirsin.
-
-<details>
-<summary><b>🧠 Local RAG with Microsoft Foundry Local</b></summary>
+#### 🧠 Local RAG with Microsoft Foundry Local
 
 **Microsoft AI Innovators yaz programı kapsamında geliştirdiğim yerel belge asistanı.**
 
@@ -53,47 +44,28 @@ Proje başlıklarına tıklayarak detayları açabilirsin.
 
 [Projeyi GitHub’da incele →](https://github.com/uguredgf/local-rag-foundry)
 
-</details>
-
-<details>
-<summary><b>🛡️ ShieldPay · Stellar / Soroban</b></summary>
+#### 🛡️ ShieldPay · Stellar / Soroban
 
 Sıfır bilgi ispatları (Groth16), Poseidon hashing ve Merkle root/nullifier yapısıyla gizliliği koruyan bir bordro sistemi tasarladım. React arayüzünde işveren, çalışan ve uyum panelleri geliştirdim.
 
-</details>
-
-<details>
-<summary><b>🌱 SustainFund · Stellar / Soroban</b></summary>
+#### 🌱 SustainFund · Stellar / Soroban
 
 KOD:2026 Hackathon için şeffaf bir sağlık bağış uygulaması geliştirdim. Rust/Soroban akıllı kontratını Next.js/TypeScript arayüzü ve Freighter Wallet ile birleştirdim.
 
-</details>
-
-<details>
-<summary><b>📱 SmartVest · Kotlin / Jetpack Compose</b></summary>
+#### 📱 SmartVest · Kotlin / Jetpack Compose
 
 Yuvarlama yoluyla mikro yatırım fikrine dayanan, MVVM mimarisiyle geliştirdiğim native Android UI/UX prototipi. Garanti BBVA “Genç Fikrinle Parla” programı için hazırlandı.
 
-</details>
-
-<details>
-<summary><b>💬 Türkçe Duygu Analizi · PyTorch / Hugging Face</b></summary>
+#### 💬 Türkçe Duygu Analizi · PyTorch / Hugging Face
 
 Bir hackathon projesinde XLM-RoBERTa modelini Türkçe duygu sınıflandırması için fine-tune ettim; veri hazırlama, tokenizasyon ve model değerlendirme adımlarını uyguladım.
 
-</details>
-
-<details>
-<summary><b>🏗️ Sui Move Workshop Project</b></summary>
+#### 🏗️ Sui Move Workshop Project
 
 - Sui Türkiye eğitimlerini tamamlayarak temel Sui Move ekosistemi ve akıllı kontrat geliştirme prensiplerinde yetkinlik kazandım.
 - **Proje Detayı:** Akıllı kontrat ve React frontend entegrasyonuna sahip merkeziyetsiz bir uygulama geliştirildi.
 
-</details>
-
 ---
-
-<a name="sertifikalar"></a>
 
 ### 📜 Sertifikalarım
 
@@ -109,8 +81,7 @@ Sertifikaları tam boyutta görmek için görsellere tıklayabilirsin.
   <a href="./onchain_cert.png"><img src="./onchain_cert.png" width="24%" alt="Onchain Workshop" /></a>
 </p>
 
-<details>
-<summary><b>Eğitim ve sertifika detayları</b></summary>
+#### Eğitim ve sertifika detayları
 
 * **Microsoft**: AI Innovators Internship Program — Yaz 2026, başarıyla tamamlandı (17 Ağustos 2026).
 * **🛡️ [Cyfrin Updraft: Blockchain Basics](https://profiles.cyfrin.io/u/ugurtlf/achievements/blockchain-basics)** (Dijital Doğrulanmış Başarı)
@@ -121,11 +92,7 @@ Sertifikaları tam boyutta görmek için görsellere tıklayabilirsin.
 * **Rise İn**: KOD:2026 – Kodla, Yapay Zeka Zincirlerini Kır
 * **Campus Arc**: Onchain Workshop - Merkeziyetsiz Finans Eğitimi
 
-</details>
-
 ---
-
-<a name="yetkinlikler"></a>
 
 ### 🛠️ Yetkinliklerim
 | Alan | Teknolojiler & Araçlar |
@@ -151,8 +118,6 @@ Sertifikaları tam boyutta görmek için görsellere tıklayabilirsin.
 </p>
 
 ---
-
-<a name="iletisim"></a>
 
 ### 📫 Bana Ulaşın
 [LinkedIn](https://www.linkedin.com/in/ugur-erdogan-tr) | [E-posta](mailto:ugurtlf23@gmail.com) | [Twitter (X)](https://twitter.com/ugurdotsui) | [Cyfrin Profile](https://profiles.cyfrin.io/u/ugurtlf)
